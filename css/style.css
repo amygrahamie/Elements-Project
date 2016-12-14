@@ -48,7 +48,7 @@ h3 {
     font-family: "raleway";
     color: white;
     font-size: 0.8em;
-    padding-top: 52em;
+    padding-top: 51em;
     margin: 0;
     position: relative;
     text-align: right;
@@ -121,7 +121,7 @@ h3 {
 
 .coin {
      position: absolute;
-     top: 340;
+     top: 330;
      left: 460px;
      width: 3%;
      z-index: 1;
