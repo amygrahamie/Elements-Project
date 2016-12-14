@@ -55,11 +55,18 @@ h4 {
  top: -5;}
 
 .balloon {
- padding-left: 12em;
+ left: 0;
  margin: 0;
  z-index: 1;
  position: absolute;
  top: 34;}
+
+.calcium {
+ left: 0;
+ margin: 0;
+ z-index: 1;
+ position: absolute;
+ top: 100;}
 
 /*--------------------------*/
 
@@ -145,6 +152,7 @@ h4 {
 
 /*--------------------------*/
 
+
 .helium {
     font-family: "Open Sans";
     color: white;
@@ -154,9 +162,8 @@ h4 {
     margin: 0;
     position: relative;
     text-align: right;
-    padding-right: 4.2em;
+    padding-right: 4.4em;
     padding-top:
     z-index: 1;
 }
-
 
