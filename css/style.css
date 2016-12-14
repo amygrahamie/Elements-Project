@@ -48,7 +48,7 @@ h3 {
     font-family: "raleway";
     color: white;
     font-size: 0.8em;
-    padding-top: 51em;
+    padding-top: 52em;
     margin: 0;
     position: relative;
     text-align: right;
@@ -101,6 +101,7 @@ h3 {
      top: 410;
      left: 800px;
      z-index: 1;
+    width: 7%;
 }
 
 .pen {
