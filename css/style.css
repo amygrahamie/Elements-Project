@@ -1,0 +1,130 @@
+.splashscreen {
+    position: absolute;
+    margin: 0;
+    z-index:-1;
+    top: -34;
+}
+
+h1 {
+    font-family: "Open Sans";
+    color: white;
+    position: absolute;
+    font-size: 4em;
+    font-weight: 700;
+    padding-left: .4em;
+    padding-top: 4.4em;
+    margin: 0;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: "raleway";
+    color: white;
+    font-size: 1.2em;
+    padding-top: 19.5em;
+    padding-left: 1.5em;
+    font-weight: 300;
+    width: 16em;
+    margin: 0;
+    position: absolute;
+}
+
+.two {
+    font-family: "raleway";
+    color: white;
+    font-size: 1.2em;
+    padding-top: 24em;
+    padding-left: 1.5em;
+    font-weight: 300;
+    width: 18em;
+    margin: 0;
+    position: absolute;
+}
+
+h3 {
+    font-family: "raleway";
+    color: white;
+    font-size: 0.8em;
+    padding-top: 51em;
+    margin: 0;
+    position: relative;
+    text-align: right;
+    padding-right: 1.5em;
+    
+}
+
+/* Grow */
+.hvr-grow {
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
+
+.hvr-grow:hover,
+.hvr-grow:focus,
+.hvr-grow:active {
+    transform: scale(1.1);
+}
+
+
+.calciumposter {
+    position: absolute;
+    top: -33px;
+    left: 97px;
+    z-index: 1;
+}
+
+.lightbulbs {
+    position: absolute;
+    top: 0;
+    left: 600px;
+    z-index: 1;
+}
+
+.balloon {
+      position: absolute;
+      top: 30;
+      left: 980px;
+      z-index: 1;
+}
+
+.banana {
+     position: absolute;
+     top: 390;
+     left: 800px;
+     z-index: 1;
+}
+
+.pen {
+     position: absolute;
+     top: 375;
+     left: 680px;
+     z-index: 1;
+}
+
+.scissors {
+     position: absolute;
+     top: 390;
+     left: 490px; 
+     z-index: 1;
+}
+
+.coin {
+     position: absolute;
+     top: 340;
+     left: 460px;
+     width: 3%;
+     z-index: 1;
+}
+
+
+
+
+
+

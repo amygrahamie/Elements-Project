@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="179px" height="209px" viewBox="0 0 179 209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Calcium Poster</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="179" height="212"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="179" height="212" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M73.260769,11.1708876 C73.0575991,11.397417 73.260769,16.0761587 73.0805614,16.578316 C72.9003538,17.0804733 63.253886,30.2293977 63.253886,31.5921474 L63.253886,105.045736 C63.253886,105.045736 95.8069711,111.028926 97.0953642,111.028926 C98.3837574,111.028926 116.254217,102.636347 116.254217,102.636347 L114.788958,31.5921474 L106.979964,16.5052717 C106.979964,16.5052717 107.136631,11.3497644 106.979964,11.1494039 C106.823296,10.9490434 73.4639388,10.9443581 73.260769,11.1708876 Z" id="path-3"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="3" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.402032382 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Landscape-Copy" transform="translate(-108.000000, 0.000000)">
+            <g id="Calcium-Poster" transform="translate(108.000000, -3.000000)">
+                <g id="Rectangle-9">
+                    <use fill="#759EB9" xlink:href="#path-1"></use>
+                    <use stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="6" fill-opacity="0.35" fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <g id="Path">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use stroke="#000000" stroke-width="2" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <polygon id="Path-7" fill="#FFFFFF" points="114.647101 73.4628753 97.0492958 78.6841314 63.7823834 75.1166798 63.7823834 104.416454 97.4839833 110.501639 115.284034 102.095946"></polygon>
+                <polyline id="Path-2" stroke="#000000" stroke-width="2" points="97.5536344 110.880928 96.1076832 32.5795594 106.591373 16.5570718 73.2953368 16.5570718"></polyline>
+                <path d="M54.4216331,63.9900474 C54.4216331,63.9900474 52.1321633,68.9685115 55.573987,70.2000272 C59.0158107,71.431543 61.4384006,68.9704718 63.0751107,69.5852495 C64.7118208,70.2000272 66.5123324,75.024077 68.8453275,74.3830094 C71.1783227,73.7419418 83.2690219,64.0363041 83.2690219,64.0363041 L54.4216331,63.9900474 Z" id="Path-5" fill="#000000" transform="translate(68.472246, 69.215789) rotate(-90.000000) translate(-68.472246, -69.215789) "></path>
+                <path d="M88.4614761,94.5189737 C85.2435618,93.7700828 85.6337823,91.9744742 82.6716966,91.9744742 C79.7096109,91.9744742 74.788885,93.2905569 73.0626667,97.0677774 C71.3364484,100.844998 77.603595,100.989359 80.5166048,103.203692 C83.4296147,105.418025 84.0995473,107.128703 86.7259569,107.453969 C93.1888984,108.254366 92.1549217,107.088383 96.9682172,106.296111 C96.9682172,106.296111 98.2201057,97.3851989 96.9682172,95.3016397 C95.7163286,93.2180806 91.6793905,95.2678645 88.4614761,94.5189737 Z" id="Path-6" fill="#000000"></path>
+                <text id="CALCIUM" font-family="Futura-Bold, Futura" font-size="19" font-weight="bold" letter-spacing="2.48900008" fill="#FFFFFF">
+                    <tspan x="35.4854997" y="137">CALCIUM</tspan>
+                </text>
+                <path d="M95.7206742,66.0652763 C95.1873329,65.0029392 91.0420203,63.395248 88.7383856,63.395248 C86.434751,63.395248 86.1965285,66.0652763 86.1965285,66.0652763 C86.1965285,66.0652763 85.7077072,69.6166077 86.1965285,70.3110222 C86.6853498,71.0054368 90.4401622,73.6206799 92.0695793,73.7934525 C93.6989965,73.9662252 94.2190296,72.2480768 94.7241443,70.3110222 C95.229259,68.3739676 96.2540156,67.1276135 95.7206742,66.0652763 Z" id="Path-8" fill="#000000"></path>
+                <text id="Discovered-1808" font-family="Lato-Bold, Lato" font-size="6" font-weight="bold" line-spacing="8" letter-spacing="1.57333326" fill="#FFFFFF">
+                    <tspan x="37" y="149.446217">Discovered</tspan>
+                    <tspan x="37" y="157.446217">180</tspan>
+                    <tspan x="52.1599998" y="157.446217" letter-spacing="1.88799989">8</tspan>
+                </text>
+                <text id="Atomic-Number-8-Grou" opacity="0.8" font-family="Lato-Bold, Lato" font-size="6" font-weight="bold" line-spacing="10" letter-spacing="0.786000013" fill="#FFFFFF">
+                    <tspan x="86" y="148.446217">Atomic Number 8</tspan>
+                    <tspan x="86" y="158.446217">Group 2 Block s</tspan>
+                    <tspan x="86" y="168.446217">Atomic mass </tspan>
+                    <tspan x="86" y="178.446217">40.078  </tspan>
+                    <tspan x="86" y="188.446217"></tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

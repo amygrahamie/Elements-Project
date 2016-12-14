@@ -1,0 +1,162 @@
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #2D3E50;
+    font-family: "Open Sans";
+    color: white;
+    font-weight: 800;
+    letter-spacing: 0.1;
+}
+
+h2 {
+    font-family: "Open Sans";
+    color: white;
+    text-transform: uppercase;
+    font-size: 4.5em;
+    letter-spacing: 2;
+    margin: 0;
+    position: relative;
+    text-align: right;
+    padding-right: 2.8em;
+    padding-top:
+    z-index: 1;
+}
+
+h3 {
+    font-family: "raleway";
+    color: white;
+    font-size: 0.8em;
+    padding-top: 50.5em;
+    margin: 0;
+    position: relative;
+    text-align: right;
+    padding-right: 1.6em;  
+}
+
+h4 {
+    font-family: "raleway";
+    color: white;
+    font-size: 1em;
+    margin: 0;
+    position: relative;
+    text-align: right;
+    padding-right: 3em;
+    text-align: left;
+    padding-left: 1em;
+}
+
+/*--------------------------*/
+
+.lightbulb2 {
+ padding-left: 8em;
+ margin: 0;
+ z-index: 1;
+ position: absolute;
+ top: -5;}
+
+.balloon {
+ padding-left: 12em;
+ margin: 0;
+ z-index: 1;
+ position: absolute;
+ top: 34;}
+
+/*--------------------------*/
+
+.container {
+    background-color: #B13F73;
+    float: right;
+    width: 50%;
+    height: 27%;
+    margin-top: 2.5em;
+}
+
+.container2 {
+    background-color: #5ECCB6;
+    float: right;
+    width: 50%;
+    height: 27%;
+    margin-top: 2.5em;
+}
+
+/*--------------------------*/
+
+.button {
+    position: absolute;
+    width: 10%;
+    left: 2em;
+    top: 41em;
+    background-color: #B13F73;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1;
+    margin: 4px 5px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    z-index: 1;
+    border-radius: 2px;
+}
+
+
+.button2 {
+    position: absolute;
+    width: 10%;
+    left: 2em;
+    top: 41em;
+    background-color: #5ECCB6;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1;
+    margin: 4px 5px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    z-index: 1;
+    border-radius: 2px;
+}
+
+/*--------------------------*/
+
+.button:hover {
+    background-color: #F5F2F1;
+    color: #B13F73;
+    border-radius: 6px;
+}
+
+.button2:hover {
+    background-color: #F5F2F1;
+    color: #5ECCB6;
+    border-radius: 6px;
+}
+
+
+/*--------------------------*/
+
+.helium {
+    font-family: "Open Sans";
+    color: white;
+    text-transform: uppercase;
+    font-size: 4.5em;
+    letter-spacing: 2;
+    margin: 0;
+    position: relative;
+    text-align: right;
+    padding-right: 4.2em;
+    padding-top:
+    z-index: 1;
+}
+
+

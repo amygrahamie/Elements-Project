@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="145px" height="604px" viewBox="0 0 145 604" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Balloon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="66.9260979%" cy="36.368053%" fx="66.9260979%" fy="36.368053%" r="54.8342122%" id="radialGradient-1">
+            <stop stop-color="#87E2F6" offset="0%"></stop>
+            <stop stop-color="#3598DB" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-2" cx="70.4524192" cy="85.4728356" rx="70.4524192" ry="85.4728356"></ellipse>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.98">
+        <g id="Desktop-Landscape-Copy" transform="translate(-947.000000, -69.000000)">
+            <g id="Balloon" transform="translate(949.000000, 70.000000)">
+                <g id="Oval-3" opacity="0.971467391">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#radialGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <path d="M68.7305249,178.868712 C93.4736849,213.12762 73.1396555,216.951106 50.9163648,247.569831 C38.3286082,264.912945 32.1398703,295.682492 37.0556116,316.015714 C50.5328952,371.762464 117.842947,381.42561 126.522249,438.762393 C129.791686,460.36079 126.854294,482.80837 113.130248,500.369617 C86.1640864,534.875434 68.7305249,561.042319 68.7305249,602.822341" id="Path-30" stroke="#F1EFEF" stroke-width="2"></path>
+                <path d="M68.9326081,171.54722 L62.7118711,179.526775 L75.756332,179.526775 L68.9326081,171.54722 Z" id="Path-24" stroke="#4FC0E8" fill="#4FC0E8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

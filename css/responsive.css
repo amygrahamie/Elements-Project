@@ -1,0 +1,24 @@
+@media (max-width:960px){
+	
+* {box-sizing:border-box;max-width:100% !important; line-height:normal;}
+table {table-layout:fixed; width:100%;}
+img { max-width:100% !important; height:auto;}
+body {margin: 0px;padding: 0px; line-height:normal;}
+iframe { max-width:100% !important;}
+object { max-width:100% !important;}
+
+article#top {
+  float: left;
+  height: auto;
+  width: 100%;
+}
+
+#top > center {
+  float: left;
+  height: auto;
+  width: 100%;
+}
+
+.background {
+  display: none;
+}
