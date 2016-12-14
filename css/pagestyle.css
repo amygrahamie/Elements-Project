@@ -45,6 +45,18 @@ h4 {
     padding-left: 1em;
 }
 
+.osmiuum {
+    font-family: "raleway";
+    color: #2D3E50;
+    font-size: 1em;
+    margin: 0;
+    position: relative;
+    text-align: right;
+    padding-right: 3em;
+    text-align: left;
+    padding-left: 1em;
+}
+
 /*--------------------------*/
 
 .lightbulb2 {
@@ -68,6 +80,15 @@ h4 {
  position: absolute;
  top: 100;}
 
+.paper {
+    width: 40%;
+    left: 90;
+    margin: 0;
+    z-index: 1;
+    position: absolute;
+    top: 75;
+}
+
 /*--------------------------*/
 
 .container {
@@ -83,6 +104,22 @@ h4 {
     float: right;
     width: 50%;
     height: 27%;
+    margin-top: 2.5em;
+}
+
+.container3 {
+    background-color: #FF6F6F;
+    float: right;
+    width: 50%;
+    height: 30%;
+    margin-top: 2.5em;
+}
+
+.container4 {
+    background-color: #FFCF55;
+    float: right;
+    width: 50%;
+    height: 34%;
     margin-top: 2.5em;
 }
 
@@ -135,6 +172,53 @@ h4 {
     border-radius: 2px;
 }
 
+.button3 {
+    position: absolute;
+    width: 10%;
+    left: 2em;
+    top: 41em;
+    background-color: #FF6F6F;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1;
+    margin: 4px 5px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    z-index: 1;
+    border-radius: 2px;
+}
+
+
+.button4 {
+    position: absolute;
+    width: 10%;
+    left: 2em;
+    top: 41em;
+    background-color: #FFCF55;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1;
+    margin: 4px 5px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    z-index: 1;
+    border-radius: 2px;
+}
+
 /*--------------------------*/
 
 .button:hover {
@@ -146,6 +230,18 @@ h4 {
 .button2:hover {
     background-color: #F5F2F1;
     color: #5ECCB6;
+    border-radius: 6px;
+}
+
+.button3:hover {
+    background-color: #F5F2F1;
+    color: #5ECCB6;
+    border-radius: 6px;
+}
+
+.button4:hover {
+    background-color: #F5F2F1;
+    color: #FFCF55;
     border-radius: 6px;
 }
 
@@ -163,6 +259,34 @@ h4 {
     position: relative;
     text-align: right;
     padding-right: 4.4em;
+    padding-top:
+    z-index: 1;}
+
+
+.calciumtext {
+    font-family: "Open Sans";
+    color: white;
+    text-transform: uppercase;
+    font-size: 4.5em;
+    letter-spacing: 2;
+    margin: 0;
+    position: relative;
+    text-align: right;
+    padding-right: 3.7em;
+    padding-top:
+    z-index: 1;
+}
+
+.osmium {
+    font-family: "Open Sans";
+    color: #2D3E50;
+    text-transform: uppercase;
+    font-size: 4.5em;
+    letter-spacing: 2;
+    margin: 0;
+    position: relative;
+    text-align: right;
+    padding-right: 4em;
     padding-top:
     z-index: 1;
 }
