@@ -78,7 +78,7 @@ h4 {
     top: 75;}
 
 .coins {
-    width: 0%;
+    width: 30%;
     left: 100;
     margin: 0;
     z-index: 1;
@@ -113,7 +113,7 @@ h4 {
     margin-top: 2.5em;
 }
 
-.container {
+.container2 {
     background-color: #5ECCB6;
     float: right;
     width: 50%;
