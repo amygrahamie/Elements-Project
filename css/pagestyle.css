@@ -116,7 +116,7 @@ h4 {
 }
 
 .container4 {
-    background-color: #FFCF55;
+    background-color: #BEC3C7;
     float: right;
     width: 50%;
     height: 34%;
@@ -201,7 +201,7 @@ h4 {
     width: 10%;
     left: 2em;
     top: 41em;
-    background-color: #FFCF55;
+    background-color: #BEC3C7;
     border: none;
     color: white;
     padding: 12px 32px;
@@ -241,7 +241,7 @@ h4 {
 
 .button4:hover {
     background-color: #F5F2F1;
-    color: #FFCF55;
+    color: #E3A711;
     border-radius: 6px;
 }
 
@@ -279,7 +279,7 @@ h4 {
 
 .osmium {
     font-family: "Open Sans";
-    color: #2D3E50;
+    color: white;
     text-transform: uppercase;
     font-size: 4.5em;
     letter-spacing: 2;
