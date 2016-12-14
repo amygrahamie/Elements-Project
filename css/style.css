@@ -107,6 +107,7 @@ h3 {
      top: 375;
      left: 680px;
      z-index: 1;
+     width: 5%; 
 }
 
 .scissors {
