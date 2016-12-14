@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1280px" height="722px" viewBox="0 0 1280 722" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <title>Desktop Landscape Copy</title>
+    <title>Group 12</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="0" y="0" width="1452" height="773"></rect>
-        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1452" height="773" fill="white">
+        <rect id="path-1" x="0" y="0" width="1297" height="324"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1297" height="324" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
         <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
@@ -132,13 +132,13 @@
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Desktop-Landscape-Copy">
-            <g id="Group-12" transform="translate(-67.000000, -458.000000)">
-                <g id="Wall">
-                    <rect id="Rectangle-10" fill="#2D3E50" transform="translate(735.000000, 980.500000) scale(1, -1) translate(-735.000000, -980.500000) " x="0" y="776" width="1470" height="409"></rect>
+            <g id="Group-12" transform="translate(-49.000000, -15.000000)">
+                <g id="Wall" transform="translate(42.000000, 6.000000)">
+                    <rect id="Rectangle-10" fill="#2D3E50" transform="translate(648.500000, 531.500000) scale(1, -1) translate(-648.500000, -531.500000) " x="0" y="327" width="1297" height="409"></rect>
                     <use id="Rectangle-10" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#DC5A65" xlink:href="#path-1"></use>
                 </g>
-                <rect id="Rectangle-10" fill="#53535C" x="18" y="771" width="1452" height="11"></rect>
-                <g id="Table" transform="translate(473.000000, 771.000000)">
+                <rect id="Rectangle-10" fill="#53535C" x="0" y="328" width="1452" height="11"></rect>
+                <g id="Table" transform="translate(455.000000, 328.000000)">
                     <g id="Group-4" filter="url(#filter-3)" transform="translate(395.640067, 242.399961)">
                         <polygon id="Path-4" stroke="#F0F0F0" fill="#F0F0F0" points="55.5573376 27.5963032 0 249.902122 15.4491742 249.902122 25.1297497 210.229901 120.862158 210.229901 130.602013 251.331194 146.044528 251.331194 92.9658298 27.5963032 80.791969 27.5963032 118.5183 198.966849 27.8519725 198.966849 69.989412 27.5963032"></polygon>
                         <polygon id="Path-3" fill="#A49D95" points="55.0555448 0.0675963574 55.0555448 13.3231409 61.3167985 13.6072515 55.172628 27.1469067 93.3785023 27.1469067 88.9715786 13.8413525 96.0129547 13.5190453 95.8019828 0.0675963574"></polygon>
@@ -160,13 +160,13 @@
                         </g>
                     </g>
                 </g>
-                <g id="Paper" filter="url(#filter-10)" transform="translate(667.685599, 890.602549) rotate(42.000000) translate(-667.685599, -890.602549) translate(595.185599, 814.102549)">
+                <g id="Paper" filter="url(#filter-10)" transform="translate(649.685599, 447.602549) rotate(42.000000) translate(-649.685599, -447.602549) translate(577.185599, 371.102549)">
                     <g id="Path-35" transform="translate(72.406882, 76.349298) rotate(-34.000000) translate(-72.406882, -76.349298) ">
                         <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
                         <use fill="#F5F2F2" fill-rule="evenodd" xlink:href="#path-11"></use>
                     </g>
                 </g>
-                <g id="Paper" filter="url(#filter-13)" transform="translate(718.505168, 899.000000) rotate(-14.000000) translate(-718.505168, -899.000000) translate(672.005168, 851.000000)">
+                <g id="Paper" filter="url(#filter-13)" transform="translate(700.505168, 456.000000) rotate(-14.000000) translate(-700.505168, -456.000000) translate(654.005168, 408.000000)">
                     <g id="Path-35">
                         <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
                         <use fill="#F5F2F2" fill-rule="evenodd" xlink:href="#path-14"></use>
@@ -186,19 +186,19 @@
                     <path d="M72.8923505,5.06230361 L69.3251394,90.8073053" id="Line" stroke="#979797" stroke-width="0.4" stroke-linecap="square"></path>
                     <path d="M85.0519555,5.83086351 L81.1540525,94.7707914" id="Line" stroke="#979797" stroke-width="0.4" stroke-linecap="square"></path>
                 </g>
-                <g id="Chair" transform="translate(635.000000, 909.000000)">
+                <g id="Chair" transform="translate(617.000000, 466.000000)">
                     <path d="M193.92665,204.129552 L34.049752,204.129552 C34.049752,204.129552 12.7707435,204.129552 6.97767212,188.076508 C-2.54357242,144.79675 0.46325973,93.6631956 1.06994314,87.3450508 C1.64007323,84.2083794 3.16414318,78.9078741 15.2414199,78.9078741 C29.3882582,78.9078741 33.4633202,87.3751449 33.7565361,88.6928797 C38.0884617,97.0660106 36.0581775,182.638249 36.0581775,182.638249 L195.488854,182.638249 L205.717656,90.0106145 C205.717656,90.0106145 205.040365,78.9078741 218.741158,78.9078741 C232.441951,78.9078741 230.382901,92.7107517 230.382901,92.7107517 C229.160918,104.597914 224.703143,174.987812 221.055041,186.137265 C216.386921,205.419046 193.92665,204.129552 193.92665,204.129552 Z" id="Path-5" fill="#BC0126"></path>
                     <path d="M35.7688462,190.160319 L204.05203,182.520284 C204.05203,182.520284 212.774963,72.3694532 207.057004,21.1258007 C201.463539,0.224721765 121.503743,0.224721765 121.503743,0.224721765 C121.503743,0.224721765 73.5105828,0.224721765 47.3708561,15.6975836 C24.5192857,35.8609236 35.7688462,190.160319 35.7688462,190.160319 Z" id="Path-6" fill="#DC4644"></path>
                     <polyline id="Path-7" stroke="#434A54" fill="#505762" points="94.0719475 204.02068 94.0719475 227.825588 103.340903 227.825588 103.340903 242.425059 136.206018 242.425059 136.206018 227.392712 145.696577 227.392712 145.696577 204.02068"></polyline>
                     <polygon id="Path-8" stroke="#434A54" fill="#505762" points="112.302296 242.864432 112.302296 348.062492 109.368425 349.560513 109.60176 361.596458 130.960548 361.596458 130.960548 348.351198 128.125216 348.062492 128.125216 243.022788"></polygon>
                 </g>
-                <g id="Mouse" transform="translate(922.000000, 775.000000)">
-                    <path d="M57.9511667,8.42637812 C57.9511667,8.42637812 46.867171,13.5564033 42.2233959,18.4766521 C37.5796208,23.3969008 39.4906265,29.2317348 33.1443166,34.7101387 C26.7980066,40.1885426 12.3651175,40.7961379 -0.16676219,57.6908112" id="Path-40" stroke="#979797" transform="translate(28.892202, 33.058595) rotate(99.000000) translate(-28.892202, -33.058595) "></path>
-                    <path d="M51.3079562,99.8915774 C60.2177601,99.8915774 61.6159124,92.3659134 61.6159124,81.45447 C61.6159124,70.5430265 60.6281868,64 51.3079562,64 C41.9877256,64 41,70.5430265 41,81.45447 C41,92.3659134 42.3981523,99.8915774 51.3079562,99.8915774 Z" id="Oval-12" fill="#757D89" transform="translate(51.307956, 81.945789) rotate(-7.000000) translate(-51.307956, -81.945789) "></path>
-                    <path d="M48.5421083,64.5694958 L49.5421083,72.5694958" id="Line" stroke="#000000" stroke-width="0.7" stroke-linecap="square"></path>
-                    <path d="M59.5200183,71.6382873 C59.5200183,71.6382873 52.8933626,72.4345173 49.7261055,73.0883932 C46.5588483,73.7422691 40.8423708,75.4942622 40.8423708,75.4942622" id="Line" stroke="#000000" stroke-width="0.7" stroke-linecap="square"></path>
+                <g id="Mouse" transform="translate(899.000000, 327.000000)">
+                    <path d="M68.8170104,9.99599758 C68.8170104,9.99599758 55.6547656,16.0816157 50.1402826,21.9183814 C44.6257997,27.7551471 46.895119,34.6768618 39.3588759,41.1757527 C31.8226328,47.6746436 14.683577,48.3954185 -0.1980301,68.4371388" id="Path-40" stroke="#979797" transform="translate(34.309490, 39.216568) rotate(99.000000) translate(-34.309490, -39.216568) "></path>
+                    <path d="M60.928198,118.498832 C71.5085901,118.498832 73.1688959,109.571329 73.1688959,96.6273614 C73.1688959,83.6833942 71.9959718,75.9215686 60.928198,75.9215686 C49.8604241,75.9215686 48.6875,83.6833942 48.6875,96.6273614 C48.6875,109.571329 50.3478058,118.498832 60.928198,118.498832 Z" id="Oval-12" fill="#757D89" transform="translate(60.928198, 97.210200) rotate(-7.000000) translate(-60.928198, -97.210200) "></path>
+                    <path d="M57.6437536,76.5971469 L58.8312536,86.087343" id="Line" stroke="#000000" stroke-width="0.7" stroke-linecap="square"></path>
+                    <path d="M70.6800218,84.9826742 C70.6800218,84.9826742 62.810868,85.9272215 59.0497502,86.7028978 C55.2886324,87.4785742 48.5003153,89.5569189 48.5003153,89.5569189" id="Line" stroke="#000000" stroke-width="0.7" stroke-linecap="square"></path>
                 </g>
-                <g id="Macbook" transform="translate(801.000000, 622.000000)">
+                <g id="Macbook" transform="translate(783.000000, 179.000000)">
                     <g id="Path-37">
                         <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
                         <use stroke="#656D78" stroke-width="1" fill="#656D78" fill-rule="evenodd" xlink:href="#path-16"></use>
@@ -220,7 +220,7 @@
                     <path d="M87.9709357,135.096123 C87.9709357,135.096123 94.9802102,130.808712 93.2089838,129.135842 C91.4377573,127.462973 87.9709357,135.096123 87.9709357,135.096123 Z" id="Path-39" fill="#000000"></path>
                     <path d="M88.6227074,139.868937 L87.7844128,131.384695" id="Line" stroke="#000000" stroke-width="1.3" stroke-linecap="square"></path>
                 </g>
-                <g id="Keyboard" transform="translate(767.000000, 797.000000)">
+                <g id="Keyboard" transform="translate(749.000000, 354.000000)">
                     <polygon id="Path-41" fill="#656D7A" transform="translate(91.539794, 37.676841) rotate(-1.000000) translate(-91.539794, -37.676841) " points="6.51241422 1.73320994 182.35154 22.1545707 177.538299 73.6204722 0.7280471 55.4914007"></polygon>
                     <rect id="Rectangle-7" fill="#D8D8D8" transform="translate(22.814370, 11.536155) rotate(4.000000) translate(-22.814370, -11.536155) " x="19.2471587" y="8.82841836" width="7.1344222" height="5.41547379"></rect>
                     <rect id="Rectangle-7" fill="#D8D8D8" transform="translate(12.485239, 9.928369) rotate(4.000000) translate(-12.485239, -9.928369) " x="8.91802775" y="7.22063172" width="7.1344222" height="5.41547379"></rect>
@@ -280,7 +280,7 @@
                     <rect id="Rectangle-7" fill="#D8D8D8" transform="translate(97.206502, 47.836685) rotate(4.000000) translate(-97.206502, -47.836685) " x="93.6392914" y="45.1289483" width="7.1344222" height="5.41547379"></rect>
                     <rect id="Rectangle-7" fill="#D8D8D8" transform="translate(107.908136, 49.641843) rotate(4.000000) translate(-107.908136, -49.641843) " x="104.340925" y="46.9341062" width="7.1344222" height="5.41547379"></rect>
                 </g>
-                <g id="Cup" transform="translate(712.000000, 754.000000)">
+                <g id="Cup" transform="translate(694.000000, 311.000000)">
                     <g id="Combined-Shape">
                         <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
                         <use fill="#F2EFED" fill-rule="evenodd" xlink:href="#path-23"></use>
@@ -296,7 +296,7 @@
                     <path d="M14.2891477,58.3839328 C14.2891477,58.3839328 20.5417427,59.5633745 25.738201,59.5633745 C30.9346594,59.5633745 36.5842171,58.3832899 36.5842171,58.3832899" id="Line" stroke="#4A4A4A" stroke-linecap="round"></path>
                     <path d="M13.8522886,55.0739163 C14.2924996,53.45613 14.6263211,50.9813114 16.8254907,50.9813114 C18.7971706,50.9813114 18.9342808,55.0918438 20.6633232,55.0918438 C22.3923656,55.0918438 22.4146898,50.1876684 24.1988868,50.0681741 C25.8283886,49.9590403 25.1410552,53.4612862 25.8597248,54.9454363 C26.5783944,56.4295864 27.820402,51.6238783 29.1506204,51.6198944 C30.4808389,51.6159106 29.6170959,55.4335248 31.2323394,55.4335248 C32.8475828,55.4335248 32.5704193,51.8893885 33.9461813,51.6198944 C35.1177405,51.390401 34.7677679,53.9588375 35.5797511,54.8438474 C35.9361072,55.2322529 36.6143453,55.0091783 37.1316424,55.0918438" id="Path-43" stroke="#4A4A4A" stroke-linecap="round"></path>
                 </g>
-                <g id="Clock" transform="translate(1243.000000, 484.000000)">
+                <g id="Clock" transform="translate(1225.000000, 41.000000)">
                     <ellipse id="Oval-7" fill="#2D3E50" cx="72.0458365" cy="72.0911428" rx="71.6619718" ry="71.6619718"></ellipse>
                     <ellipse id="Oval-7" stroke="#979797" fill="#ECEFE2" cx="72.3380282" cy="71.6619718" rx="63.5492958" ry="63.5492958"></ellipse>
                     <ellipse id="Oval-8" fill="#000000" cx="71.6619718" cy="124.394366" rx="3.38028169" ry="3.38028169"></ellipse>
@@ -305,7 +305,7 @@
                     <path d="M101.070423,106.507042 L69.2957746,67.2957746" id="Line" stroke="#000000" stroke-width="1.5" stroke-linecap="square"></path>
                     <path d="M48.3380282,86.2253521 L69.2957746,67.2957746" id="Line" stroke="#000000" stroke-width="1.5" stroke-linecap="square"></path>
                 </g>
-                <g id="Group-8" filter="url(#filter-25)" opacity="0.973165761" transform="translate(517.000000, 696.000000)">
+                <g id="Group-8" filter="url(#filter-25)" opacity="0.973165761" transform="translate(499.000000, 253.000000)">
                     <g id="Path-45">
                         <use fill="#FBCF62" xlink:href="#path-27"></use>
                         <use stroke="#FFFFFF" stroke-width="0.7" fill-opacity="0.8" fill="url(#linearGradient-26)" xlink:href="#path-27"></use>
@@ -319,7 +319,7 @@
                     <ellipse id="Oval-10" stroke="#FBCF62" stroke-width="2" opacity="0.949999988" cx="32.12" cy="3.5047619" rx="11" ry="3.5047619"></ellipse>
                     <ellipse id="Oval-10" stroke="#FBCF62" stroke-width="2" opacity="0.939999998" cx="32.56" cy="2.19047619" rx="7.92" ry="2.19047619"></ellipse>
                 </g>
-                <g id="Beaker-Stand" transform="translate(591.000000, 710.000000)">
+                <g id="Beaker-Stand" transform="translate(573.000000, 267.000000)">
                     <g id="Group" filter="url(#filter-28)">
                         <g id="Shape">
                             <path d="M14.4973333,6.86687805 C18.1142889,6.86687805 22.0060667,6.09019512 22.0060667,4.38668293 C22.0060667,2.68317073 18.1142889,1.9064878 14.4973333,1.9064878 C10.8813,1.9064878 6.98767778,2.6822439 6.98767778,4.38668293 C6.98767778,6.09112195 10.8813,6.86687805 14.4973333,6.86687805 Z M14.4973333,2.85926829 C18.8253222,2.85926829 21.0571,3.92882927 21.0571,4.3857561 C21.0571,4.8417561 18.8262444,5.9122439 14.4973333,5.9122439 C10.1693444,5.9122439 7.93664444,4.8417561 7.93664444,4.3857561 C7.93664444,3.9297561 10.1693444,2.85926829 14.4973333,2.85926829 Z" fill="#FFFFFF"></path>
@@ -332,7 +332,7 @@
                         </g>
                     </g>
                 </g>
-                <g id="I-love-Science-Poster" transform="translate(384.000000, 443.000000)">
+                <g id="I-love-Science-Poster" transform="translate(366.000000, 0.000000)">
                     <g id="Rectangle-9">
                         <use fill="#A7D163" xlink:href="#path-29"></use>
                         <use stroke="#FFFFFF" mask="url(#mask-30)" stroke-width="6" fill-opacity="0.4" fill="#FFFFFF" xlink:href="#path-29"></use>
