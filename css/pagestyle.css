@@ -86,7 +86,16 @@ h4 {
     margin: 0;
     z-index: 1;
     position: absolute;
-    top: 75;
+    top: 75;}
+
+.coins {
+    width: 30%;
+    left: 100;
+    margin: 0;
+    z-index: 1;
+    position: absolute;
+    top: 110;
+    
 }
 
 /*--------------------------*/
@@ -287,7 +296,21 @@ h4 {
     position: relative;
     text-align: right;
     padding-right: 4em;
-    padding-top:
     z-index: 1;
 }
+
+
+.nickel {
+    font-family: "Open Sans";
+    color: white;
+    text-transform: uppercase;
+    font-size: 4.5em;
+    letter-spacing: 2;
+    margin: 0;
+    position: relative;
+    text-align: right;
+    padding-right: 4.8em;
+    z-index: 1;
+}
+
 
