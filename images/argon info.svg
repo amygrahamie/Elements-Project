@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="557px" height="394px" viewBox="0 0 557 394" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B13F73" offset="0%"></stop>
+            <stop stop-color="#D872AB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="7.21247956%" id="linearGradient-2">
+            <stop stop-color="#D973AC" offset="0%"></stop>
+            <stop stop-color="#B13F73" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Landscape-Copy" transform="translate(-577.000000, -224.000000)">
+            <g id="Group-6" transform="translate(564.000000, 224.000000)">
+                <path d="M167.514069,283.815527 L203.527832,227 L131.5,227 L167.514069,283.815527 Z M131.5,3 L203.5,3 L203.5,227 L131.5,227 L131.5,3 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <text id="Atomic-Number" transform="translate(171.500000, 76.500000) rotate(90.000000) translate(-171.500000, -76.500000) " font-family="Lato-Bold, Lato" font-size="25" font-weight="bold" line-spacing="26" letter-spacing="5.14772701" fill="#FFFFFF">
+                    <tspan x="109" y="75.5">Atomic </tspan>
+                    <tspan x="109" y="101.5">Number</tspan>
+                </text>
+                <path d="M49.3140686,304.815527 L85.327832,248 L13.3,248 L49.3140686,304.815527 Z M13.3,0.34360896 L85.3,0.34360896 L85.3,248 L13.3,248 L13.3,0.34360896 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <text id="Symbol" transform="translate(65.300000, 76.500000) rotate(90.000000) translate(-65.300000, -76.500000) " font-family="Lato-Bold, Lato" font-size="25" font-weight="bold" line-spacing="26" letter-spacing="5.14772701" fill="#FFFFFF">
+                    <tspan x="2.8" y="88.5">Symbol</tspan>
+                </text>
+                <text id="18" font-family="AvenirNext-Bold, Avenir Next" font-size="40" font-weight="bold" fill="#ECE8E5">
+                    <tspan x="143.16" y="222">18</tspan>
+                </text>
+                <text id="Ar" font-family="AvenirNext-Bold, Avenir Next" font-size="40" font-weight="bold" fill="#ECE8E5">
+                    <tspan x="30.3" y="247">Ar</tspan>
+                </text>
+                <path d="M288.514069,332.815527 L324.527832,276 L252.5,276 L288.514069,332.815527 Z M252.5,3 L324.5,3 L324.5,276 L252.5,276 L252.5,3 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <text id="Gas" transform="translate(301.500000, 76.500000) rotate(90.000000) translate(-301.500000, -76.500000) " font-family="Lato-Bold, Lato" font-size="25" font-weight="bold" line-spacing="26" letter-spacing="5.14772701" fill="#FFFFFF">
+                    <tspan x="239" y="88.5">Gas</tspan>
+                </text>
+                <path d="M569.2,337 L569.2,2 L497.2,2 L497.2,337.381994 L497.442137,337.381994 L533.214069,393.815527 L568.985697,337.381994 L569.2,337.381994 L569.2,337.043908 L569.227832,337 L569.2,337 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+                <text id="Protons" transform="translate(550.200000, 75.500000) rotate(90.000000) translate(-550.200000, -75.500000) " font-family="Lato-Bold, Lato" font-size="25" font-weight="bold" line-spacing="26" letter-spacing="5.14772701" fill="#FFFFFF">
+                    <tspan x="487.7" y="87.5">Protons</tspan>
+                </text>
+                <path d="M448.069186,249.656391 L412.514069,300.541129 L376.958649,249.656391 L376.5,249.656391 L376.5,2 L448.5,2 L448.5,249 L448.527832,249 L448.5,249.039832 L448.5,249.656391 L448.069186,249.656391 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <text id="Electrons" transform="translate(435.500000, 93.000000) rotate(90.000000) translate(-435.500000, -93.000000) " font-family="Lato-Bold, Lato" font-size="25" font-weight="bold" line-spacing="26" letter-spacing="5.14772701" fill="#FFFFFF">
+                    <tspan x="356.5" y="105">Electrons</tspan>
+                </text>
+                <path d="M279.457701,281.350241 L300.393189,281.350241 C305.126438,281.778877 308.24691,276.667783 308.311872,274.343424 C308.376833,272.019065 307.919654,269.982921 304.758622,268.786424 C301.59759,267.589927 295.838905,269.622224 295.838905,269.622224 C295.838905,269.622224 295.465008,262.801021 289.785312,262.801021 C284.105616,262.801021 282.359461,269.622224 282.359461,269.622224 C282.359461,269.622224 276.140409,266.548398 273.023324,269.622224 C269.906239,272.69605 270.247436,280.254867 279.457701,281.350241 Z" id="Path-58" stroke="#FFFFFF" fill="#D8D8D8"></path>
+                <text id="18" font-family="AvenirNext-Bold, Avenir Next" font-size="40" font-weight="bold" fill="#ECE8E5">
+                    <tspan x="387.66" y="247">18</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
