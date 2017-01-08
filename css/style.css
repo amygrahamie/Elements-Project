@@ -7,14 +7,18 @@ body {background-color:#2D3E50; }
     left: 0;  
 }
 
+.animated fadeIn {
+    animation-delay: 5s;
+}
+
 h1 {
-    font-family: "Open Sans";
+    font-family: 'Cabin Sketch', cursive;
     color: white;
     position: absolute;
-    font-size: 4em;
+    font-size: 4.2em;
     font-weight: 700;
     padding-left: .4em;
-    padding-top: 4.6em;
+    padding-top: 4.5em;
     margin: 0;
     letter-spacing: 0.05em;
     text-transform: uppercase;
@@ -27,7 +31,7 @@ h2 {
     padding-top: 19.7em;
     padding-left: 1.5em;
     font-weight: 300;
-    width: 16em;
+    width: 18em;
     margin: 0;
     position: absolute;
 }
