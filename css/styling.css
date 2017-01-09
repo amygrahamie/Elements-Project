@@ -41,29 +41,35 @@ a:focus {
     
 }
 
-.list {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    margin-top: 55px;
-    text-align: left;
-    font-size: 1.2em;
-    font-family: 'raleway';
-    text-transform: uppercase;
-    font-weight: bolder;    
-}
 
-li a {
-    display: block;
-    padding: 16px 30px;
+.button2 {
+    position: absolute;
+    left: 5em;
+    top: 41em;
+    background-color: #5ECCB6;
+    border: none;
+    color: white;
+    padding: 12px 10px;
+    text-align: center;
     text-decoration: none;
-    color: darkslategray;
+    display: inline-block;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1;
+    margin: 4px 5px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    z-index: 1;
+    border-radius: 2px;
 }
 
-/* Change the link color on hover */
-li a:hover {
-    color: #4EA2AD;
+.button2:hover {
+    background-color: #B13F73;
+    color: white;
+    border-radius: 6px;
 }
+
 
 a {
     text-decoration: none;
