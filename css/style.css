@@ -5,6 +5,7 @@ body {background-color:#2D3E50; }
     z-index:-1;
     top: -23;
     left: 0;  
+    width: 100%;
 }
 
 .animated fadeIn {
@@ -18,7 +19,7 @@ h1 {
     font-size: 4.2em;
     font-weight: 700;
     padding-left: .4em;
-    padding-top: 4.5em;
+    padding-top: 4.6em;
     margin: 0;
     letter-spacing: 0.05em;
     text-transform: uppercase;
@@ -28,7 +29,7 @@ h2 {
     font-family: "raleway";
     color: white;
     font-size: 1.2em;
-    padding-top: 19.7em;
+    padding-top: 20em;
     padding-left: 1.5em;
     font-weight: 300;
     width: 18em;
@@ -52,7 +53,7 @@ h3 {
     font-family: "raleway";
     color: white;
     font-size: 0.8em;
-    padding-top: 51em;
+    padding-top: 53em;
     margin: 0;
     position: relative;
     text-align: right;
@@ -81,7 +82,7 @@ h3 {
 
 .calciumposter {
     position: absolute;
-    top: -23px;
+    top: -8px;
     left: 97px;
     z-index: 1;
 }
