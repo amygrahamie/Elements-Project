@@ -33,7 +33,7 @@ body {
     position: absolute;
     height: 22%;
     width: 75%;
-    background-color: #4EA2AD
+    background-color: #4EA2AD;
 }
 
 a:hover,
@@ -46,7 +46,7 @@ a:focus {
     position: absolute;
     left: 5em;
     top: 41em;
-    background-color: #5ECCB6;
+    background-color: #4EA2AD;
     border: none;
     color: white;
     padding: 12px 10px;
